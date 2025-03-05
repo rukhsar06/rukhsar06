@@ -40,11 +40,11 @@ APIs & Databases: REST APIs (learning phase), SQL
 
 🌍 Let's Connect!
 
-📌 GitHub: https://github.com/account
+📌 GitHub:-  https://github.com/account
 
-📌 Twitter/X: https://x.com/TITANIA_
+📌 Twitter/X:-  https://x.com/TITANIA_
 
-📌 https://www.instagram.com/titania__scarlet?igsh=MTh2MzYyMGhncm5qbA==
+📌 Instagram :- https://www.instagram.com/titania__scarlet?igsh=MTh2MzYyMGhncm5qbA==
 
 ⚡ Let's build, break, and innovate together! 🚀🔥
 
