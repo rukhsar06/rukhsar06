@@ -1,12 +1,50 @@
-- 👋 Hi, I’m @rukhsar06
-- 👀 I’m interested in backend...
-- 🌱 I’m currently learning java ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🖥️ Erza | Software Engineer in the Making 🚀
+Code. Create. Conquer.
 
-<!---
-rukhsar06/rukhsar06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my digital playground! I'm Erza, a passionate backend developer diving deep into Java while mastering React.js for sleek frontend experiences. My goal? Crafting powerful, scalable applications and pushing my limits in the world of tech.
+
+🛠️ Tech Stack & Expertise
+🚀 Languages & Frameworks
+
+Backend: Java (Spring Boot coming soon ⏳)
+
+Frontend: React.js, React Native, HTML, CSS
+
+Other: JavaScript, TypeScript , C , C++ Python 
+
+🔧 Tools & Technologies :-
+
+Version Control: Git, GitHub
+
+IDE & Dev Tools: IntelliJ IDEA, VS Code
+
+APIs & Databases: REST APIs (learning phase), SQL
+
+🚀 Projects & Builds :-
+
+📌 Random Option Picker (React.js) – Let fate decide! 🎡🔄
+
+📌 To-Do  (React Native) – Productivity, but make it sleek. 📋✨
+
+📌 DSA Challenges & Competitive Programming – Algorithmic domination. ⚡
+
+📅 Goals & Roadmap
+
+✔ Master Java Backend Development (Spring Boot, APIs, Databases)
+
+✔ Build Full-Stack Applications from Scratch
+
+✔ Crack Software Engineering Roles & Freelance Gigs
+
+✔ Develop & Launch Real-World Apps
+
+🌍 Let's Connect!
+
+📌 GitHub: https://github.com/account
+
+📌 Twitter/X: https://x.com/TITANIA_
+
+📌 https://www.instagram.com/titania__scarlet?igsh=MTh2MzYyMGhncm5qbA==
+
+⚡ Let's build, break, and innovate together! 🚀🔥
+
