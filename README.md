@@ -44,7 +44,7 @@ APIs & Databases: REST APIs (learning phase), SQL
 
 🌍 Let's Connect!
 
-📌 GitHub:-  https://github.com/account
+📌 GitHub:-  https://github.com/rukhsar06
 
 📌 Twitter/X:-  https://x.com/TITANIA_
 
